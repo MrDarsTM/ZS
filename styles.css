@@ -1,18 +1,10 @@
-/* Resetowanie domyślnych stylów */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Stylowanie body */
 body {
   font-family: Arial, sans-serif;
   background-color: #f8f8f8;
   color: #333;
 }
 
-/* Stylowanie nagłówka */
+
 header {
   background-color: #333;
   color: #fff;
@@ -20,7 +12,7 @@ header {
   text-align: center;
 }
 
-/* Stylowanie menu nawigacyjnego */
+
 nav {
   background-color: #444;
   padding: 10px 0;
@@ -33,12 +25,12 @@ nav a {
   margin: 0 15px;
 }
 
-/* Stylowanie sekcji */
+
 section {
   padding: 50px 0;
 }
 
-/* Stylowanie galerii zdjęć */
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -51,7 +43,7 @@ section {
   margin-bottom: 20px;
 }
 
-/* Stylowanie formularza kontaktowego */
+
 .contact-form {
   max-width: 600px;
   margin: 0 auto;
@@ -80,7 +72,7 @@ section {
   cursor: pointer;
 }
 
-/* Stylowanie stopki */
+
 footer {
   background-color: #333;
   color: #fff;
