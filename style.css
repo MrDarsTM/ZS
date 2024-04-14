@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: #d3d3d3;
+    background-color: #333;
 }
 nav {
     position: fixed;
@@ -30,7 +30,7 @@ nav ul li a {
     transition: all 0.2s ease-in-out;
 } 
 nav ul li a:hover {
-    background-color: #d3d3d3;
+    background-color: #333;
     color: white;
     transform: scale(1.1);
 }
@@ -91,8 +91,8 @@ footer p {
     color: white;
 }
 .dlaczego1 {
-    width: 300px;
-    height: 512px;
+    width: 400px;
+    height: 400px;
     margin-top: 64px;
     background-color: #484848;
     border-radius: 64px;
@@ -108,8 +108,8 @@ footer p {
     font-size: 28px;
 }
 .dlaczego2 {
-    width: 650px;
-    height: 512px;
+    width: 400px;
+    height: 400px;
     margin-top: 64px;
     margin-left: 128px;
     background-color: #484848;
@@ -126,8 +126,8 @@ footer p {
     font-size: 28px;
 }
 .dlaczego3 {
-    width: 650px;
-    height: 512px;
+    width: 400px;
+    height: 400px;
     margin-top: 64px;
     background-color: #484848;
     border-radius: 64px;
@@ -164,7 +164,7 @@ footer p {
 .dlaczegomy {
     height: 96px;
     width: 512px;
-    background-color: #f1827e;
+    background-color: #00008b;
     border-radius: 25px;
     margin: auto;
     margin-top: 48px;
