@@ -3,14 +3,14 @@
     padding: 0;
 }
 body {
-    background-color: #333;
+    background-color: #d3d3d3;
 }
 nav {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #f1827e;
+    background-color: #00008b;
 }  
 nav ul {
     list-style: none;
@@ -30,7 +30,7 @@ nav ul li a {
     transition: all 0.2s ease-in-out;
 } 
 nav ul li a:hover {
-    background-color: #333;
+    background-color: #d3d3d3;
     color: white;
     transform: scale(1.1);
 }
@@ -91,7 +91,7 @@ footer p {
     color: white;
 }
 .dlaczego1 {
-    width: 650px;
+    width: 300px;
     height: 512px;
     margin-top: 64px;
     background-color: #484848;
