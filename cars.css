@@ -11,7 +11,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #f1827e;
+    background-color: #00008b;
     
 }
 nav ul {
@@ -189,7 +189,7 @@ table.tabelka td, table.tabelka th {
     width: 300px;
 } 
 table.tabelka thead {
-    background-color: #f1827e;
+    background-color: #00008b;
 }
 footer {
     margin-top: 64px;
